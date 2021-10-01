@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Basic_Syntax_Conditional_Statements_and_Loops___Exercise</RootNamespace>
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+
+</Project>
